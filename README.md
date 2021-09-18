@@ -6,8 +6,8 @@ I am currently studying computer science and I find myself interested and indepe
 The following is a list of languages I have learned and continue to learn:
 * HTML
 * CSS
-* JS: NodeJs - Express - React
-* Python
+* TS/JS: NodeJs - Express - React
+* Python: Flask - Django - PostgreSQL
 * C++
 * C#, C (Still learning concepts)
 
