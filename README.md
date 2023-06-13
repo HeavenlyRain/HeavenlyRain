@@ -1,9 +1,9 @@
 # Introduction
-Hello, my name is Guillermo, but I you can call me @HeavenlyRain. 
+Hello, my name is Guillermo.
 
-I am currently studying computer science and I find myself interested and independently pursuing various aspects of software, web, and game development.
+I am currently studying computer science and I find myself interested in, and independently pursuing, various aspects of software, web, and cybersecurity.
 
-My current focus, however, lies in Malware analysis and Developing within that space.
+My current focus, however, lies in Malware analysis and developing red-team tools within that space.
 
 The following is a list of languages I have learned and continue to learn:
 * HTML
