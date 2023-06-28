@@ -1,5 +1,5 @@
 # Introduction
-Hello, my name is Guillermo.
+Hello!
 
 I am currently studying computer science and I find myself interested in, and independently pursuing, various aspects of software, web, and cybersecurity.
 
